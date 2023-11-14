@@ -10,8 +10,7 @@
 * У меня есть французский бульдог Локи, и он желает всем отличного дня!
 
 
-![](https://github.com/SvetlanaDomakhina/About-me/blob/main/LokiFrenchie.jpg)https://github.com/SvetlanaDomakhina/About-me/blob/main/LokiFrenchie.jpg)
-
+![](https://github.com/SvetlanaDomakhina/About-me/blob/main/LokiFrenchie.jpg)
 
 
 
