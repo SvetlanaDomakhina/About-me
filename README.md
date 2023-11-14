@@ -9,7 +9,8 @@
 * Я учусь в [Нетологии](https://netology.ru)  на QA, и моя цель на ближайший год - найти удаленную работу в хорошей IT-компании или стартапе.
 * У меня есть французский бульдог Локи, и он желает всем отличного дня!
 
-![](https://github.com/SvetlanaDomakhina/About-me/blob/main/LokiFrenchie.jpg)
+![LokiFrenchie](https://github.com/SvetlanaDomakhina/About-me/assets/150098038/9c4660a7-d5a1-4620-bcc0-397d02a29e23)
+
 
 
 
